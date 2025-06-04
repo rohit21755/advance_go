@@ -1,0 +1,3 @@
+pack
+type Logging struct {
+}
